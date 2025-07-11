@@ -1,4 +1,8 @@
 ## Hello there !
+<img src="./wallpapersden.com_heart-of-deimos-warframe_2560x1440.jpg" width="200" align=right>
+
+
+
 I'm lyzer, a 20 years old developper curently in second year in **[@Epitech](https://github.com/Epitech).**
 I thrive in in low level languages like **C, C++, x86 Assembly** as well as anything related to software developpement ! 😃
 
