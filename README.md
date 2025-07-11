@@ -27,7 +27,7 @@ I aspire to create software everyone will use, a solution to one of our modern p
 * 🚲 I like cycling, it was an obsession when I was little.
 * 🏎️ I am passionate about cars ! Whether it is racing (Watching/piloting), sports cars, JDM, ... I get exited about anything that has an engine.
 * 📖/🌍 I enjoy history and geography, it is so interesting to know about the past, I focus on antique history.
-* ⚗️ I have strong interest about mathematics, physics, chemestry and biology !
+* ⚗️ I have a strong interest about mathematics, physics, chemestry and biology !
 * 💮 Japanese culture is one of my favorite, I like anime, mangas, origamis. I am part of an association about it.
 
 Feel free to browse my public repositories, open pull requests, I am always open to new opportunities !
