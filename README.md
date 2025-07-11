@@ -16,13 +16,7 @@ we all know and love to run on everything. 💥
 ### My ambitions
 I aspire to create software everyone will use, a solution to one of our modern problems. I am really fond of 🐳 **[Docker](https://www.docker.com/)** and their history <br/> (Did you know they come from my school ?) and I would like to have as much as impact as them on my fellow developper's everyday life.
 ### Languages I have experience with
-* C/C++ (main)
-* x86 Assembly
-* Python
-* Lua
-* JavaScript
-* Scratch
-* Blueprint (Unreal Engine)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,bash,lua)](https://skillicons.dev)
 ### Hobbies
 * 🎮 I am a really hardcore gamer, I've played ***[Warframe](https://www.warframe.com)*** for thousands of hours ! After playing so much, I really wanted to understand what is behind the game.
 * 🚲 I like cycling, it was an obsession when I was little.
