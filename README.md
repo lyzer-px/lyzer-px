@@ -16,11 +16,12 @@ we all know and love to run on everything. 💥
 ### My ambitions
 I aspire to create software everyone will use, a solution to one of our modern problems. I am really fond of 🐳 **[Docker](https://www.docker.com/)** and their history <br/> (Did you know they come from my school ?) and I would like to have as much as impact as them on my fellow developper's everyday life.
 ### Operating Systems
-[![OSs](https://skillicons.dev/icons?i=arch,bsd,ubuntu,windows)](https://skillicons.dev)
+[![OSs](https://go-skill-icons.vercel.app/api/icons?i=arch,bsd,fedora,ubuntu,debian,windows)](https://skillicons.dev)
 ### Languages I have experience with
-[![Languages](https://skillicons.dev/icons?i=c,cpp,python,js,bash,lua)](https://skillicons.dev)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,assembly,python,js,bash,lua)](https://skillicons.dev)
+
 ### Software I use
-[![Software](https://skillicons.dev/icons?i=docker,git,github,vscode,vim,emacs,unreal)](https://skillicons.dev)
+[![Software](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,githubactions,vscode,visualstudio,vim,emacs,tmux,virtualbox,wsl,hyprland,unreal,canva)](https://skillicons.dev)
 ### Hobbies
 * 🎮 I am a really hardcore gamer, I've played ***[Warframe](https://www.warframe.com)*** for thousands of hours ! After playing so much, I really wanted to understand what is behind the game.
 * 🚲 I like cycling, it was an obsession when I was little.
