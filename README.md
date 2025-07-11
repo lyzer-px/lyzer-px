@@ -19,6 +19,8 @@ I aspire to create software everyone will use, a solution to one of our modern p
 [![OSs](https://skillicons.dev/icons?i=arch,bsd,ubuntu,windows)](https://skillicons.dev)
 ### Languages I have experience with
 [![Languages](https://skillicons.dev/icons?i=c,cpp,python,js,bash,lua)](https://skillicons.dev)
+### Software I use
+[![Software](https://skillicons.dev/icons?i=docker,git,github,vscode,vim,emacs,unreal)](https://skillicons.dev)
 ### Hobbies
 * 🎮 I am a really hardcore gamer, I've played ***[Warframe](https://www.warframe.com)*** for thousands of hours ! After playing so much, I really wanted to understand what is behind the game.
 * 🚲 I like cycling, it was an obsession when I was little.
