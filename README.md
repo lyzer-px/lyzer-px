@@ -1,33 +1,39 @@
-## Hello there !
-<img src="./wallpapersden.com_heart-of-deimos-warframe_2560x1440.jpg" width="200" align=right>
+## Hello there!
 
+<img src="./wallpapersden.com_heart-of-deimos-warframe_2560x1440.jpg" width="200" align="right" />
 
+I’m Lyzer, a 20-year-old developer currently in my second year at **[@Epitech](https://github.com/Epitech)**.
+My passion lies in low-level programming languages such as **C, C++, and x86 Assembly**, along with a broad interest in software development.
 
-I'm lyzer, a 20 years old developper curently in second year in **[@Epitech](https://github.com/Epitech).**
-I thrive in in low level languages like **C, C++, x86 Assembly** as well as anything related to software developpement ! 😃
+I began coding at age 11 with Scratch and later taught myself **Python** at 16. My formal education introduced me to **C**, which has since become my primary language.
 
+I work on both academic and personal projects. Among my favorites is **[Wolfenstein3d](https://github.com/lyzer-px/Wolfenstein3d)**, a project developed prior to the release of the well-known **[Doom](https://www.google.com/search?q=doom+1)** game.
+Additionally, I created **[Libmeta](https://github.com/lyzer-px/libmeta-3)**, my own implementation of parts of the standard C library, which has proven invaluable during my coursework.
 
-I started coding at 11 years old on scratch, and then started self teaching **Python** at 16, I then started **C** at school, which is now my language of choice.
+### Ambitions
 
-I work on both academic and personnal projects from time to time, the one I like most from school is **[Wolfenstein3d](https://github.com/lyzer-px/Wolfenstein3d)** 🔫, the released before a certain
-**[game](https://www.google.com/search?q=doom+1&rlz=1C1CHZN_frFR1159FR1159&oq=doom+1&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyBwgBEC4YgAQyBwgCEAAYgAQyBwgDEC4YgAQyBwgEEC4YgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQg0NjM2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)** 
-we all know and love to run on everything. 💥
-<br/> I also created **[Libmeta](https://github.com/lyzer-px/libmeta-3)** which is my own version of the standard libC, I used it at school and It saved me quite a few times.
-### My ambitions
-I aspire to create software everyone will use, a solution to one of our modern problems. I am really fond of 🐳 **[Docker](https://www.docker.com/)** and their history <br/> (Did you know they come from my school ?) and I would like to have as much as impact as them on my fellow developper's everyday life.
+I aspire to develop software that addresses real-world challenges and benefits a wide audience. I am particularly inspired by 🐳 **[Docker](https://www.docker.com/)**, a company with roots at my school, and I aim to make a similar impact on the developer community.
+
 ### Operating Systems
+
 [![OSs](https://go-skill-icons.vercel.app/api/icons?i=arch,bsd,fedora,ubuntu,debian,windows)](https://skillicons.dev)
-### Languages I have experience with
+
+### Programming Languages
+
 [![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,assembly,python,js,bash,lua)](https://skillicons.dev)
 
-### Software I use
-[![Software](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,githubactions,vscode,visualstudio,vim,emacs,tmux,virtualbox,wsl,hyprland,unreal,canva)](https://skillicons.dev)
-### Hobbies
-* 🎮 I am a really hardcore gamer, I've played ***[Warframe](https://www.warframe.com)*** for thousands of hours ! After playing so much, I really wanted to understand what is behind the game.
-* 🚲 I like cycling, it was an obsession when I was little.
-* 🏎️ I am passionate about cars ! Whether it is racing (Watching/piloting), sports cars, JDM, ... I get exited about anything that has an engine.
-* 📖/🌍 I enjoy history and geography, it is so interesting to know about the past, I focus on antique history.
-* ⚗️ I have a strong interest about mathematics, physics, chemestry and biology !
-* 💮 Japanese culture is one of my favorite, I like anime, mangas, origamis. I am part of an association about it.
+### Tools & Software
 
-Feel free to browse my public repositories, open pull requests, I am always open to new opportunities !
+[![Software](https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,githubactions,vscode,visualstudio,vim,emacs,tmux,virtualbox,wsl,hyprland,unreal,canva)](https://skillicons.dev)
+
+### Interests
+
+- 🎮 Dedicated gamer with extensive experience in ***[Warframe](https://www.warframe.com)***; intrigued by the technology behind games.
+- 🚲 Enthusiastic cyclist since childhood.
+- 🏎️ Passionate about cars, including racing, sports cars, and JDM culture.
+- 📖 Interested in history and geography, with a focus on antiquity.
+- ⚗️ Strong appreciation for mathematics, physics, chemistry, and biology.
+- 💮 Admirer of Japanese culture, including anime, manga, and origami; active member of a related association.
+
+Feel free to explore my repositories or contribute via pull requests. I’m open to collaboration and new opportunities.
+
