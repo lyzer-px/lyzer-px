@@ -3,12 +3,12 @@
 <img src="./wallpapersden.com_heart-of-deimos-warframe_2560x1440.jpg" width="200" align="right" />
 
 I’m Lyzer, a 20-year-old developer currently in my second year at **[@Epitech](https://github.com/Epitech)**.
-My passion lies in low-level programming languages such as **C, C++, and x86 Assembly**, along with a broad interest in software development.
+My passion lies in low-level programming languages such as **C, C++** as well as DevOps and AdminSys. I have a strong interest in software development in general.
 
 I began coding at age 11 with Scratch and later taught myself **Python** at 16. My formal education introduced me to **C**, which has since become my primary language.
 
-I work on both academic and personal projects. Among my favorites is **[Wolfenstein3d](https://github.com/lyzer-px/Wolfenstein3d)**, a project developed prior to the release of the well-known **[Doom](https://www.google.com/search?q=doom+1)** game.
-Additionally, I created **[Libmeta](https://github.com/lyzer-px/libmeta-3)**, my own implementation of parts of the standard C library, which has proven invaluable during my coursework.
+I work on both academic and personal projects. Among my favorites is my take on **[Wolfenstein3d](https://github.com/lyzer-px/Wolfenstein3d)**, developed prior to the release of the well-known **[Doom](https://www.google.com/search?q=doom+1)** game.
+Additionally, I created **[Libmeta](https://github.com/lyzer-px/libmeta-3)**, my own implementation of parts of the standard C library, which has proven invaluable during my studies.
 
 ### Ambitions
 
@@ -28,12 +28,12 @@ I aspire to develop software that addresses real-world challenges and benefits a
 
 ### Interests
 
-- 🎮 Dedicated gamer with extensive experience in ***[Warframe](https://www.warframe.com)***; intrigued by the technology behind games.
+- 🎮 Dedicated gamer with extensive experience in ***[Warframe](https://www.warframe.com)***; intrigued by game engines.
 - 🚲 Enthusiastic cyclist since childhood.
-- 🏎️ Passionate about cars, including racing, sports cars, and JDM culture.
+- 🏎️ Passionate about cars, including racing, and JDM culture.
 - 📖 Interested in history and geography, with a focus on antiquity.
-- ⚗️ Strong appreciation for mathematics, physics, chemistry, and biology.
-- 💮 Admirer of Japanese culture, including anime, manga, and origami; active member of a related association.
+- ⚗️ Strong appreciation for history, mathematics, physics, chemistry, and biology.
+- 💮 Admirer of Japanese culture, including anime, mangas, food and much more.
 
-Feel free to explore my repositories or contribute via pull requests. I’m open to collaboration and new opportunities.
+Feel free to explore my repositories, I am always open to collaboration and new opportunities.
 
