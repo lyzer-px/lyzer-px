@@ -2,7 +2,7 @@
 
 <img src="./wallpapersden.com_heart-of-deimos-warframe_2560x1440.jpg" width="200" align="right" />
 
-I’m Lyzer, I am 20 years old Software Engineer, currently in second year at **[@Epitech](https://github.com/Epitech)**.
+I’m Liam, I am 20 years old Software Engineer, currently in second year at **[@Epitech](https://github.com/Epitech)**.
 My passion lies in language syntax analysis as well as low-level programming languages such as **C, C++** as well as **DevOps** and **AdminSys**. I have a strong interest in software development/design in general.
 
 I began coding at school when I was 11 using Scratch. I later taught myself **Python** at 16. My formal education introduced me to **C**, which has since become my primary language.
